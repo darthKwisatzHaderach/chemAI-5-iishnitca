@@ -92,7 +92,7 @@ source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-Рекомендуется Python 3.10–3.12 (для **RDKit**). Полный прогон обучения — **~7–8 мин** на CPU.
+Рекомендуется Python 3.10–3.12 (для **RDKit**).
 
 ### 2. Запуск
 
