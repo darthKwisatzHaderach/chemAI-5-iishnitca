@@ -8,6 +8,7 @@
 - Тонкушин Дмитрий Алексеевич
 - Федотов Александр Максимович
 
+<video src="ChemiAI.mp4" controls width="800"></video>
 
 **Видео-презентация:** [ChemiAI.mp4](ChemiAI.mp4)
 
